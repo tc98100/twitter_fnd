@@ -1,0 +1,33 @@
+{
+  "controversial_topics": [
+    "Tibet", "inflation", "Urghur", "discrimination", "privacy",
+    "Beijing", "genoside", "Taiwan", "china taiwan", "Russia",
+    "Japan", "Ukraine", "North Korea", "Belarus", "Australia",
+    "Nazis", "America", "\"United Kingdom\"", "France", "Germany",
+    "Moscow", "Nato", "European union", "\"united nations\"", "India",
+    "Pakistan", "Iran", "Afghanistan", "Iraq", "Syria",
+    "biden", "trump", "putin", "zelensky", "scott morrison",
+    "boris johnson", "Emmanuel Macron", "China", "republic", "democracy",
+    "capitalism", "communism", "socialism", "islamic", "muslim",
+    "breaking", "gun control", "war", "abortion", "human rights",
+    "news", "climate change", "immigration", "white supremacy", "nationalism",
+    "BLM", "\"Black lives matter\"", "drug", "marijuana", "covid",
+    "vaccine", "healthcare", "health insurance", "free speech", "hate speech",
+    "cyberbully", "religion", "women rights","Israel Palestine", "Antifa",
+    "animal testing", "animal right", "Euthanasia", "traffick",
+    "death penalty", "gun", "suiside", "labour", "liberal",
+    "terrorism", "violence", "abuse", "Chinese", "democrat", "XinJiang"
+  ],
+  "trend_country_list": [
+    23424977, 23424748, 23424975
+  ],
+  "starter_news_outlet": [
+    9300262, 14511951, 878284831, 14281853, 1020058453, 16012783, 457984599, 21114659, 23922797, 4970411, 16973333, 35773039, 5988062, 134758540, 19897138, 15438913, 1917731, 20562637, 16815644, 2884771, 13850422, 18851248, 26657119, 2329066872, 170254080, 11134252, 15458694, 1483388011371016195, 1209936918, 10774652, 18956073, 29097819, 34655603
+  ],
+  "trusted_news_outlet": [
+    2768501, 15012486, 759251, 1367531, 2836421, 807095, 14173315, 3108351, 2467791, 51241574, 1652541, 16343974, 6433472, 428333, 6017542, 20402945, 612473, 5402612, 742143, 87818409, 9235982, 7587032, 87416722, 64643056, 487118986, 1115874631, 303862998, 56644534, 2097571, 15754281, 380648579, 16664681, 5392522, 2557521, 265902729, 108568373, 19230601, 23603092, 2883841, 91478624, 34713362, 4898091, 1891490382, 1462548977367359490, 16815644, 25562002, 426802833, 564111558, 14434063
+  ],
+  "fake_news_accounts": [
+    934174143939055617, 914877149164789760, 38612007, 14075928, 567192377, 1263097492435943426, 41218263, 4382006968, 50769180, 2421067430, 55060090, 17301707, 3135241, 28614262, 455764741, 469194846, 55329156, 2361224263, 10168082, 20076659, 15115280, 2421067430, 14730894, 39308549, 46520074, 168541923, 45190383, 2217181338, 1408003598, 86177206, 20545835, 3406938525, 8953122, 1002203254065950720, 407464670, 1232003748886700032, 21344507
+  ]
+}
