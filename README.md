@@ -29,5 +29,5 @@ To run this application, the user simply needs to navigate to the twitter_fnd_pr
 
 # Download links:
 You can choose to form the datasets and train the model yourself or use the ones below.
-Combined training set: https://drive.google.com/file/d/1wbyil6LIoCaKibMHOMZHK8WpJVfaRRlQ/view?usp=sharing
-Pre-trained model: https://drive.google.com/file/d/10KNB6UWZ1Z4jpV-10yLIF50JR_Kd1Ahq/view?usp=sharing
+- Combined training set: https://drive.google.com/file/d/1wbyil6LIoCaKibMHOMZHK8WpJVfaRRlQ/view?usp=sharing
+- Pre-trained model: https://drive.google.com/file/d/10KNB6UWZ1Z4jpV-10yLIF50JR_Kd1Ahq/view?usp=sharing
